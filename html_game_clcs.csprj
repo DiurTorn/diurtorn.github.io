@@ -1,0 +1,1975 @@
+
+<codestructure version="1.7.1">
+<phptree>
+</phptree>
+<jstree>
+<treenode node="Ball;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\script.js;f0;36;1;43;;;;vpos;;v;;a;;r;;d40,36;;b0,0;;m0;;ex;;py;;pw;;ph;;pspeed;;pimage;;p;;x;;x;;x;;x;;x;;x">
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f23;47;24;47;;C:\Users\progr\Documents\HTML-game\js\script.js;f23;36;24;36;;;;vposh;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="image;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f33;47;38;47;;C:\Users\progr\Documents\HTML-game\js\script.js;f33;36;38;36;;;;vposimage;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="speed;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f26;47;31;47;;C:\Users\progr\Documents\HTML-game\js\script.js;f26;36;31;36;;;;vposspeed;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="w;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f20;47;21;47;;C:\Users\progr\Documents\HTML-game\js\script.js;f20;36;21;36;;;;vposw;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="x;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f14;47;15;47;;C:\Users\progr\Documents\HTML-game\js\script.js;f14;36;15;36;;;;vposx;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="y;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f17;47;18;47;;C:\Users\progr\Documents\HTML-game\js\script.js;f17;36;18;36;;;;vposy;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Dragon;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\script.js;f0;28;1;35;;;;vpos;;v;;a;;r;;d35,28;;b0,0;;m0;;ex;;py;;pw;;ph;;pimage;;p;;x;;x;;x;;x;;x">
+<treenode node="bDrag;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\script.js;f9;34;14;34;;;;vpos;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\script.js;f25;28;26;28;;;;vposh;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="image;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\script.js;f28;28;33;28;;;;vposimage;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="w;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\script.js;f22;28;23;28;;;;vposw;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="x;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\script.js;f16;28;17;28;;;;vposx;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="y;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\script.js;f19;28;20;28;;;;vposy;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="E;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6008;15;6030;15;;;;vpos;;v;;a;;r;;d6020,15;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Enemy;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\script.js;f0;44;1;51;;;;vpos;;v;;a;;r;;d41,44;;b0,0;;m0;;ex;;py;;pw;;ph;;pspeed;;pimage;;p;;x;;x;;x;;x;;x;;x">
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f24;55;25;55;;C:\Users\progr\Documents\HTML-game\js\script.js;f24;44;25;44;;;;vposh;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="image;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f34;55;39;55;;C:\Users\progr\Documents\HTML-game\js\script.js;f34;44;39;44;;;;vposimage;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="speed;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f27;55;32;55;;C:\Users\progr\Documents\HTML-game\js\script.js;f27;44;32;44;;;;vposspeed;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="w;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f21;55;22;55;;C:\Users\progr\Documents\HTML-game\js\script.js;f21;44;22;44;;;;vposw;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="x;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f15;55;16;55;;C:\Users\progr\Documents\HTML-game\js\script.js;f15;44;16;44;;;;vposx;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="y;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f18;55;19;55;;C:\Users\progr\Documents\HTML-game\js\script.js;f18;44;19;44;;;;vposy;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="F;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5986;15;6008;15;;;;vpos;;v;;a;;r;;d5998,15;;b0,0;;m0;;e">
+</treenode>
+<treenode node="H;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3883;16;3948;16;;;;vpos;;v;;a;;r;;d3896,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3894;16;3895;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="type;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3899;16;3903;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="arguments;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3937;16;3946;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="event;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4190;16;4195;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="special;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4196;16;4203;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="submit;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4204;16;4679;16;;;;vpos;;v;;a;;r;;d4211,16;;b0,0;;m0;;e">
+<treenode node="setup;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4212;16;4618;16;;;;vpos;;v;;a;;r;;d4231,16;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4227;16;4228;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="keyCode;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4561;16;4568;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="arguments;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4409;16;4418;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4229;16;4230;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4326;16;4327;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4236;16;4237;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="teardown;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4619;16;4678;16;;;;vpos;;v;;a;;r;;d4639,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4637;16;4638;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4640;16;4641;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+</treenode>
+</treenode>
+</treenode>
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3911;16;3912;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="J;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4716;16;4950;16;;;;vpos;;v;;a;;r;;d4729,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4727;16;4728;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4734;16;4735;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4743;16;4744;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4836;16;4837;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="K;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4951;16;5228;16;;;;vpos;;v;;a;;r;;d4964,16;;b0,0;;m0;;ec;;p;;x">
+<treenode node="arguments;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5211;16;5220;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5133;16;5134;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4962;16;4963;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="liveFired;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5181;16;5190;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="type;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5165;16;5169;16;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4969;16;4970;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="event;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5231;16;5236;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="special;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5237;16;5244;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="change;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5245;16;5932;16;;;;vpos;;v;;a;;r;;d5252,16;;b0,0;;m0;;e">
+<treenode node="setup;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5705;16;5842;16;;;;vpos;;v;;a;;r;;d5724,16;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="I;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5769;16;5770;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5720;16;5721;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5722;16;5723;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5764;16;5765;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5771;16;5772;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="nodeName;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5832;16;5840;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="type;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5733;16;5737;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="z;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5820;16;5821;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="teardown;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5843;16;5931;16;;;;vpos;;v;;a;;r;;d5863,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5861;16;5862;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5864;16;5865;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="nodeName;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5921;16;5929;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="z;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5909;16;5910;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="filters;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5253;16;5704;16;;;;vpos;;v;;a;;r;;d5261,16;;b0,0;;m0;;e">
+<treenode node="beforeactivate;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5630;16;5703;16;;;;vpos;;v;;a;;r;;d5656,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5654;16;5655;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5661;16;5662;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5672;16;5673;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="click;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5292;16;5429;16;;;;vpos;;v;;a;;r;;d5309,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="K;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5414;16;5415;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5307;16;5308;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5314;16;5315;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5325;16;5326;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5389;16;5390;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="keydown;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5430;16;5629;16;;;;vpos;;v;;a;;r;;d5449,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="K;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5614;16;5615;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5447;16;5448;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="keyCode;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5502;16;5509;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5454;16;5455;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5465;16;5466;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5517;16;5518;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="beforedeactivate;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5273;16;5289;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="focusout;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5262;16;5270;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+</treenode>
+</treenode>
+</treenode>
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4980;16;4981;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5098;16;5099;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4982;16;4983;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="z;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4989;16;4990;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="L;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5831;15;5986;15;;;;vpos;;v;;a;;r;;d5848,15;;b0,0;;m0;;ea;;pc;;pd;;p;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5842;15;5843;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5844;15;5845;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5846;15;5847;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5853;15;5854;15;;;;vposf.extend;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="liveFired;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5903;15;5912;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="originalEvent;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5884;15;5900;15;;;;vpos;;v;;a;;r;;d5898,15;;b0,0;;m0;;e">
+</treenode>
+<treenode node="type;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5875;15;5879;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5915;15;5916;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="N;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4745;15;5831;15;;;;vpos;;v;;a;;r;;d4758,15;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4756;15;4757;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="currentTarget;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5596;15;5609;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="data;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5619;15;5623;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="handleObj;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5643;15;5652;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="liveFired;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4831;15;4840;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="type;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4893;15;4897;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="arguments;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5704;15;5713;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4763;15;4764;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4765;15;4766;15;;;;vpose.level;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4767;15;4768;15;;;;vposm.elem;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4769;15;4770;15;;;;vposp.;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="elem;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5500;15;5504;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5456;15;5457;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4771;15;4772;15;;;;vposs.;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="preType;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5343;15;5350;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4773;15;4774;15;;;;vposm.elem;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="handleObj;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5507;15;5516;15;;;;vpose.handleObj;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4775;15;4776;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="j;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4777;15;4778;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="k;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4779;15;4780;15;;;;vposNumber;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="l;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4781;15;4782;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="level;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5519;15;5524;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="m;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4783;15;4784;15;;;;vpose.;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="selector;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5254;15;5262;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="n;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4785;15;4786;15;;;;vposRegExp;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="o;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4787;15;4788;15;;;;vpose.handleObj.origHandler.apply;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="p;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4789;15;4790;15;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="q;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4794;15;4795;15;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="r;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4799;15;4800;15;;;;vposf._data;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="s;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5025;15;5026;15;;;;vposr.live.slice;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="y;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f5092;15;5093;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="O;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4669;15;4745;15;;;;vpos;;v;;a;;r;;d4684,15;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="A;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4723;15;4724;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="B;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4738;15;4739;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4680;15;4681;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4682;15;4683;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="W;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4603;15;4669;15;;;;vpos;;v;;a;;r;;d4616,15;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4614;15;4615;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="parentNode;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4644;15;4654;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="nodeType;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4655;15;4663;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+</treenode>
+</treenode>
+<treenode node="X;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4241;15;4603;15;;;;vpos;;v;;a;;r;;d4258,15;;b0,0;;m0;;ea;;pb;;pc;;p;;x;;x;;x">
+<treenode node="S;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4492;15;4493;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4252;15;4253;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="nodeType;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4474;15;4482;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4254;15;4255;15;;;;vposf.filter;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4256;15;4257;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4312;15;4313;15;;;;vposf.grep;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4319;15;4320;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4269;15;4270;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4418;15;4424;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="b$;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2003;15;2268;15;;;;vpos;;v;;a;;r;;d2027,15;;b0,0;;m0;;ea;;pc;;pd;;pe;;pf;;pg;;p;;x;;x;;x;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2015;15;2016;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="bU;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2100;15;2102;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2017;15;2018;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2019;15;2020;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2021;15;2022;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2023;15;2024;15;;;;vposf;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2025;15;2026;15;;;;vposg;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2068;15;2069;15;;;;vposa.;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2075;15;2076;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="j;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2079;15;2080;15;;;;vposa.;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="k;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2094;15;2095;15;;;;vposa;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="l;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2103;15;2104;15;;;;vposb$;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2141;15;2147;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="bD;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2512;15;2804;15;;;;vpos;;v;;a;;r;;d2530,15;;b0,0;;m0;;ea;;pb;;pc;;p;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2524;15;2525;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2526;15;2527;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="bx;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2549;15;2551;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2528;15;2529;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2535;15;2536;15;;;;vposb;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2555;15;2556;15;;;;vposb;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2623;15;2624;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="bZ;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2268;15;2512;15;;;;vpos;;v;;a;;r;;d2282,15;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2280;15;2281;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2311;15;2312;15;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="bQ;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2384;15;2386;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2301;15;2302;15;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2360;15;2361;15;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2388;15;2389;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2339;15;2340;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2392;15;2393;15;;;;vposNumber;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2403;15;2404;15;;;;vposh.substr;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2405;15;2406;15;;;;vposa.;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="j;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2407;15;2408;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2304;15;2310;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="b_;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1768;15;2003;15;;;;vpos;;v;;a;;r;;d1788,15;;b0,0;;m0;;ea;;pb;;pc;;pd;;p;;x;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1780;15;1781;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1782;15;1783;15;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="bF;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1831;15;1833;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1784;15;1785;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1786;15;1787;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1825;15;1826;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1792;15;1793;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1859;15;1865;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="bh;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4103;15;4241;15;;;;vpos;;v;;a;;r;;d4119,15;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4115;15;4116;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4117;15;4118;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f4127;15;4128;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="bi;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3792;15;4103;15;;;;vpos;;v;;a;;r;;d3808,15;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3804;15;3805;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3806;15;3807;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="nodeType;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3814;15;3822;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3848;15;3849;15;;;;vposf.expando;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3860;15;3861;15;;;;vposd.;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="delete;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3940;15;3946;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3872;15;3873;15;;;;vpose.;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="events;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3958;15;3967;15;;;;vpos;;v;;a;;r;;d3965,15;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3830;15;3831;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3901;15;3902;15;;;;vposd.events;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3976;15;3977;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3991;15;3992;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="j;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3995;15;3996;15;;;;vposg..length;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="bj;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3311;15;3792;15;;;;vpos;;v;;a;;r;;d3327,15;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3323;15;3324;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3325;15;3326;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="defaultChecked;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3689;15;3703;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="defaultValue;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3642;15;3654;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="nodeType;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3339;15;3347;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="outerHTML;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3477;15;3486;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="selected;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3577;15;3585;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="value;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3747;15;3752;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3332;15;3333;15;;;;vposb.nodeName.toLowerCase;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3780;15;3781;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="bk;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3185;15;3311;15;;;;vpos;;v;;a;;r;;d3199,15;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3197;15;3198;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="bl;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3102;15;3185;15;;;;vpos;;v;;a;;r;;d3116,15;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3114;15;3115;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="defaultChecked;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3160;15;3174;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="type;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3122;15;3126;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="bm;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2992;15;3102;15;;;;vpos;;v;;a;;r;;d3006,15;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3004;15;3005;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="bl;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3098;15;3100;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f3007;15;3008;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="bn;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2804;15;2992;15;;;;vpos;;v;;a;;r;;d2820,15;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2816;15;2817;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="async;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2845;15;2850;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2818;15;2819;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="bf;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2936;15;2938;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="dataType;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2854;15;2862;15;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2827;15;2828;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="url;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f2835;15;2838;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ca;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1373;15;1768;15;;;;vpos;;v;;a;;r;;d1391,15;;b0,0;;m0;;ea;;pc;;pd;;p;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1385;15;1386;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1515;15;1516;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1387;15;1388;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1389;15;1390;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1396;15;1397;15;;;;vposa.contents;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1409;15;1410;15;;;;vposa.dataTypes;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1423;15;1424;15;;;;vposa.responseFields;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1442;15;1443;15;;;;vposa.mimeType;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1444;15;1445;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="j;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1446;15;1447;15;;;;vposi;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="k;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1448;15;1449;15;;;;vposi;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="cb;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f847;15;1373;15;;;;vpos;;v;;a;;r;;d863,15;;b0,0;;m0;;ea;;pc;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f859;15;860;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f861;15;862;15;;;;vpose.;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f913;15;914;15;;;;vposa.dataTypes;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f927;15;931;15;;;;vpos;;v;;a;;r;;d929,15;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1283;15;1284;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f932;15;933;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f934;15;935;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f936;15;937;15;;;;vposd.length;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="j;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f947;15;948;15;;;;vposo.split;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="k;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f949;15;950;15;;;;vposd.;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="l;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f956;15;957;15;;;;vposd.;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="m;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f958;15;959;15;;;;vposd.;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="n;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f960;15;961;15;;;;vpose.;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="o;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f962;15;963;15;;;;vpose.;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="p;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f964;15;965;15;;;;vpose.;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1014;15;1020;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ch;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f790;15;847;15;;;;vpos;;v;;a;;r;;d803,15;;b0,0;;m0;;e">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f819;15;820;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f842;15;843;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ci;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f713;15;790;15;;;;vpos;;v;;a;;r;;d726,15;;b0,0;;m0;;e">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f742;15;743;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f785;15;786;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="cs;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f664;15;713;15;;;;vpos;;v;;a;;r;;d677,15;;b0,0;;m0;;e">
+<treenode node="cq;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f702;15;704;15;;;;vposf.now;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="ct;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f689;15;691;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ct;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f645;15;664;15;;;;vpos;;v;;a;;r;;d658,15;;b0,0;;m0;;e">
+<treenode node="cq;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f659;15;661;15;;;;vposb;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="cu;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f546;15;645;15;;;;vpos;;v;;a;;r;;d562,15;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f558;15;559;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f560;15;561;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f567;15;571;15;;;;vpos;;v;;a;;r;;d569,15;;b0,0;;m0;;e">
+</treenode>
+<treenode node="cp;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f579;15;581;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f572;15;573;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="cv;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f101;15;546;15;;;;vpos;;v;;a;;r;;d115,15;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f113;15;114;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f131;15;132;15;;;;vposcl.createElement;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f287;15;288;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="cj;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f120;15;122;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="ck;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f216;15;218;15;;;;vposc.createElement;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="frameBorder;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f253;15;264;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="height;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f277;15;283;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="cl;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f314;15;316;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f163;15;164;15;;;;vposf.css;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="cy;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15;15;101;15;;;;vpos;;v;;a;;r;;d29,15;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f27;15;28;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f37;15;38;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="drawScene;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\script.js;f0;57;1;144;;;;vpos;;v;;a;;r;;d21,57;;b0,0;;m0;;e">
+<treenode node="bMouseDown;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\script.js;f8;71;18;71;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="bMouseDows;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f5;82;15;82;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="backgroundImage;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f15;75;30;75;;C:\Users\progr\Documents\HTML-game\js\script.js;f18;64;33;64;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="balls;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f8;100;13;100;;C:\Users\progr\Documents\HTML-game\js\script.js;f8;88;13;88;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="canvas;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f35;106;41;106;;C:\Users\progr\Documents\HTML-game\js\script.js;f35;94;41;94;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="ctx;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f1;69;4;69;;C:\Users\progr\Documents\HTML-game\js\script.js;f4;58;7;58;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="fillStyle;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f8;157;17;157;;C:\Users\progr\Documents\HTML-game\js\script.js;f8;140;17;140;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="font;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f8;156;12;156;;C:\Users\progr\Documents\HTML-game\js\script.js;f8;139;12;139;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="delete;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f20;107;26;107;;C:\Users\progr\Documents\HTML-game\js\script.js;f20;95;26;95;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="dragon;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\script.js;f26;72;32;72;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="ekey;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f17;115;21;115;;C:\Users\progr\Documents\HTML-game\js\script.js;f17;102;21;102;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="enemies;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f8;114;15;114;;C:\Users\progr\Documents\HTML-game\js\script.js;f8;101;15;101;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="explodeSound2;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f32;145;45;145;;C:\Users\progr\Documents\HTML-game\js\script.js;f32;129;45;129;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="currentTime;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f46;145;57;145;;C:\Users\progr\Documents\HTML-game\js\script.js;f46;129;57;129;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="iBgShiftX;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f1;71;10;71;;C:\Users\progr\Documents\HTML-game\js\script.js;f4;60;13;60;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="iEnemyW;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f40;120;47;120;;C:\Users\progr\Documents\HTML-game\js\script.js;f40;107;47;107;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="iLastMouseX;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f6;83;17;83;;C:\Users\progr\Documents\HTML-game\js\script.js;f12;72;23;72;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="iLastMouseY;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f5;86;16;86;;C:\Users\progr\Documents\HTML-game\js\script.js;f12;75;23;75;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="iScore;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f32;142;38;142;;C:\Users\progr\Documents\HTML-game\js\script.js;f32;127;38;127;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="iSprDir;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f56;97;63;97;;C:\Users\progr\Documents\HTML-game\js\script.js;f50;86;57;86;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="iSprPos;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f1;77;8;77;;C:\Users\progr\Documents\HTML-game\js\script.js;f4;66;11;66;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="key;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f17;101;20;101;;C:\Users\progr\Documents\HTML-game\js\script.js;f17;89;20;89;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="laughtSound;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f20;124;31;124;;C:\Users\progr\Documents\HTML-game\js\script.js;f20;110;31;110;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="currentTime;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f32;124;43;124;;C:\Users\progr\Documents\HTML-game\js\script.js;f32;110;43;110;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="spaceCar;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f20;83;28;83;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="undefined;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f30;102;39;102;;C:\Users\progr\Documents\HTML-game\js\script.js;f30;90;39;90;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="f;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6663;15;14683;15;;;;vpos;;v;;a;;r;;d6675,15;;b0,0;;m0;;e">
+<treenode node="H;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6676;15;6786;15;;;;vpos;;v;;a;;r;;d6688,15;;b0,0;;m0;;e">
+<treenode node="H;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6763;15;6764;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6749;15;6750;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6708;15;6709;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6693;15;6694;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="access;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13410;15;13652;15;;;;vpos;;v;;a;;r;;d13438,15;;b0,0;;m0;;ea;;pc;;pd;;pf;;pg;;ph;;p;;x;;x;;x;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13426;15;13427;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13533;15;13534;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13428;15;13429;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13430;15;13431;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13492;15;13493;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13432;15;13433;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13434;15;13435;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13436;15;13437;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13443;15;13444;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="j;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13485;15;13486;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="k;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13569;15;13570;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13457;15;13463;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="bindReady;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10236;15;10618;15;;;;vpos;;v;;a;;r;;d10256,15;;b0,0;;m0;;e">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10404;15;10405;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10539;15;10540;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10283;15;10284;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="readyState;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10285;15;10295;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10577;15;10578;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10327;15;10328;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="y;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10261;15;10262;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="z;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10398;15;10399;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="e;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6790;15;6834;15;;;;vpos;;v;;a;;r;;d6805,15;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6801;15;6802;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6803;15;6804;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="browser;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14357;15;14364;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="safari;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14413;15;14419;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="version;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14365;15;14372;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6817;15;6818;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="extend;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9399;15;9405;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="fn;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7418;15;7420;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="init;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9377;15;9381;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="prototype;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9382;15;9391;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6831;15;6832;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="each;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8848;15;12231;15;;;;vpos;;v;;a;;r;;d11968,15;;b0,0;;m0;;ea;;pb;;pa;;pc;;pd;;p;;x;;x;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8862;15;8863;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8864;15;8865;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11964;15;11965;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11966;15;11967;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8874;15;8875;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11973;15;11974;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11975;15;11976;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11979;15;11980;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11990;15;11991;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="end;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9271;15;9333;15;;;;vpos;;v;;a;;r;;d9285,15;;b0,0;;m0;;e">
+<treenode node="prevObject;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9298;15;9308;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="eq;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8947;15;9009;15;;;;vpos;;v;;a;;r;;d8961,15;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8959;15;8960;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="error;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11225;15;11251;15;;;;vpos;;v;;a;;r;;d11242,15;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11240;15;11241;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="throw;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11243;15;11248;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="first;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9010;15;9045;15;;;;vpos;;v;;a;;r;;d9026,15;;b0,0;;m0;;e">
+</treenode>
+<treenode node="globalEval;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11775;15;11861;15;;;;vpos;;v;;a;;r;;d11797,15;;b0,0;;m0;;eb;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11813;15;11814;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11795;15;11796;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="j;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11801;15;11802;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="grep;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12789;15;12901;15;;;;vpos;;v;;a;;r;;d12809,15;;b0,0;;m0;;ea;;pb;;pc;;p;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12803;15;12804;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12805;15;12806;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12807;15;12808;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12814;15;12815;15;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12819;15;12820;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12835;15;12836;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12839;15;12840;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="holdReady;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9958;15;10008;15;;;;vpos;;v;;a;;r;;d9979,15;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9977;15;9978;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9982;15;9983;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="inArray;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12519;15;12626;15;;;;vpos;;v;;a;;r;;d12540,15;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="F;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12544;15;12545;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12536;15;12537;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12538;15;12539;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12573;15;12574;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12577;15;12578;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="init;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7448;15;8406;15;;;;vpos;;v;;a;;r;;d7468,15;;b0,0;;m0;;ea;;pd;;pf;;p;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7462;15;7463;15;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8326;15;8327;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7582;15;7583;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="context;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7519;15;7526;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7464;15;7465;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7861;15;7862;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7466;15;7467;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7473;15;7474;15;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7475;15;7476;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="j;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7477;15;7478;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="k;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7479;15;7480;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="length;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7542;15;7548;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="selector;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7625;15;7633;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7665;15;7671;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="isEmptyObject;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11165;15;11224;15;;;;vpos;;v;;a;;r;;d11190,15;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11188;15;11189;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11199;15;11200;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="isFunction;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10619;15;10687;15;;;;vpos;;v;;a;;r;;d10641,15;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10639;15;10640;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10649;15;10650;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="isArray;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10673;15;10680;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="isNaN;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10806;15;10861;15;;;;vpos;;v;;a;;r;;d10823,15;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10821;15;10822;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="m;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10841;15;10842;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="isPlainObject;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10928;15;11164;15;;;;vpos;;v;;a;;r;;d10953,15;;b0,0;;m0;;ea;;p;;x">
+<treenode node="B;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11037;15;11038;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10951;15;10952;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11149;15;11150;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11124;15;11125;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10961;15;10962;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="isWindow;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10736;15;10805;15;;;;vpos;;v;;a;;r;;d10756,15;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10754;15;10755;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10767;15;10773;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="last;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9046;15;9081;15;;;;vpos;;v;;a;;r;;d9061,15;;b0,0;;m0;;e">
+</treenode>
+<treenode node="makeArray;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12346;15;12518;15;;;;vpos;;v;;a;;r;;d12369,15;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="C;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12484;15;12485;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12365;15;12366;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="length;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12412;15;12418;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12367;15;12368;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12374;15;12375;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12398;15;12399;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12470;15;12471;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="map;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9183;15;13176;15;;;;vpos;;v;;a;;r;;d12921,15;;b0,0;;m0;;ea;;pa;;pc;;pd;;p;;x;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9196;15;9197;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9260;15;9261;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9243;15;9244;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12919;15;12920;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9221;15;9222;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12926;15;12927;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12928;15;12929;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12930;15;12931;15;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12935;15;12936;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="j;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12939;15;12940;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="k;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12950;15;12951;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12975;15;12981;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="merge;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12627;15;12788;15;;;;vpos;;v;;a;;r;;d12646,15;;b0,0;;m0;;ea;;pc;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12642;15;12643;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="length;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12770;15;12776;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12752;15;12753;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12644;15;12645;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="length;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12678;15;12684;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12651;15;12652;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12662;15;12663;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12703;15;12704;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12669;15;12675;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="noConflict;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9855;15;9934;15;;;;vpos;;v;;a;;r;;d9877,15;;b0,0;;m0;;eb;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9878;15;9879;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="$;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9880;15;9881;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="jQuery;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9900;15;9906;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9875;15;9876;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9884;15;9885;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="nodeName;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11862;15;11947;15;;;;vpos;;v;;a;;r;;d11884,15;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11880;15;11881;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11882;15;11883;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="noop;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11757;15;11774;15;;;;vpos;;v;;a;;r;;d11772,15;;b0,0;;m0;;e">
+</treenode>
+<treenode node="now;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13653;15;13695;15;;;;vpos;;v;;a;;r;;d13667,15;;b0,0;;m0;;e">
+<treenode node="Date;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13679;15;13683;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="parseJSON;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11252;15;11492;15;;;;vpos;;v;;a;;r;;d11273,15;;b0,0;;m0;;eb;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11327;15;11328;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11271;15;11272;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11464;15;11465;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="o;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11374;15;11375;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="p;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11391;15;11392;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="q;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11406;15;11407;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="r;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11421;15;11422;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11277;15;11283;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="parseXML;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11493;15;11756;15;;;;vpos;;v;;a;;r;;d11517,15;;b0,0;;m0;;eb;;pc;;pd;;p;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11518;15;11519;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11511;15;11512;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11513;15;11514;15;;;;vposActiveXObject;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="async;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11625;15;11630;15;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11515;15;11516;15;;;;vpos,c=d.parseFromString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="nodeName;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11693;15;11701;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="prototype;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11515;15;11516;15;;;;vpos,c=d.parseFromString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f11720;15;11721;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="proxy;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13184;15;13409;15;;;;vpos;;v;;a;;r;;d13203,15;;b0,0;;m0;;ea;;pc;;p;;x;;x">
+<treenode node="g;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13301;15;13360;15;;;;vpos;;v;;a;;r;;d13313,15;;b0,0;;m0;;e">
+<treenode node="D;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13340;15;13341;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13321;15;13322;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="arguments;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13347;15;13356;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13329;15;13330;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13331;15;13332;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="guid;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13363;15;13367;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13199;15;13200;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="arguments;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13288;15;13297;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13273;15;13274;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13201;15;13202;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13231;15;13232;15;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13250;15;13251;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13279;15;13280;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13207;15;13213;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="pushStack;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8600;15;8847;15;;;;vpos;;v;;a;;r;;d8625,15;;b0,0;;m0;;ea;;pb;;pc;;p;;x;;x;;x">
+<treenode node="C;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8664;15;8665;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8619;15;8620;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8621;15;8622;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8623;15;8624;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="context;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8723;15;8730;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8630;15;8631;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="context;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8710;15;8717;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="prevObject;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8692;15;8702;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="selector;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8744;15;8752;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8651;15;8652;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="selector;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8758;15;8766;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ready;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8892;15;10235;15;;;;vpos;;v;;a;;r;;d10026,15;;b0,0;;m0;;ea;;pa;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8907;15;8908;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10078;15;10079;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8910;15;8911;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="isReady;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10116;15;10123;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="y;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8924;15;8925;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="size;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8443;15;8478;15;;;;vpos;;v;;a;;r;;d8458,15;;b0,0;;m0;;e">
+<treenode node="length;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8471;15;8477;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="slice;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9082;15;9182;15;;;;vpos;;v;;a;;r;;d9098,15;;b0,0;;m0;;e">
+<treenode node="D;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9121;15;9122;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="arguments;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9134;15;9143;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="sub;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13858;15;14162;15;;;;vpos;;v;;a;;r;;d13872,15;;b0,0;;m0;;e">
+<treenode node="a;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13873;15;13915;15;;;;vpos;;v;;a;;r;;d13888,15;;b0,0;;m0;;eb;;pc;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13900;15;13901;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13884;15;13885;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13886;15;13887;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="fn;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13955;15;13957;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="init;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14016;15;14116;15;;;;vpos;;v;;a;;r;;d14034,15;;b0,0;;m0;;ed;;pf;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14069;15;14070;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14113;15;14114;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14030;15;14031;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14051;15;14052;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14032;15;14033;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="instanceof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14040;15;14050;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="constructor;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13982;15;13993;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="init;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14122;15;14126;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="prototype;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14127;15;14136;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="sub;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13998;15;14001;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="superclass;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13937;15;13947;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14146;15;14147;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14150;15;14151;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13915;15;13916;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="sub;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14007;15;14010;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="toArray;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8479;15;8520;15;;;;vpos;;v;;a;;r;;d8497,15;;b0,0;;m0;;e">
+<treenode node="D;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8505;15;8506;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="type;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10862;15;10927;15;;;;vpos;;v;;a;;r;;d10878,15;;b0,0;;m0;;ea;;p;;x">
+<treenode node="A;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10906;15;10907;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="G;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10904;15;10905;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10876;15;10877;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="uaMatch;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13696;15;13857;15;;;;vpos;;v;;a;;r;;d13715,15;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13713;15;13714;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13738;15;13739;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="browser;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13821;15;13828;15;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="t;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13751;15;13752;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="u;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13762;15;13763;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="v;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13800;15;13801;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="version;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13838;15;13845;15;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="z;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7250;15;14672;15;;;;vpos;;v;;a;;r;;d14594,15;;b0,0;;m0;;e">
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14508;15;14509;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="readyState;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14597;15;14607;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14555;15;14556;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="z;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14549;15;14550;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="A;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7252;15;7253;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="B;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7280;15;7281;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="C;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7314;15;7315;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="D;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7337;15;7338;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="E;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7361;15;7362;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="F;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7385;15;7386;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="G;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7411;15;7415;15;;;;vpos;;v;;a;;r;;d7413,15;;b0,0;;m0;;e">
+</treenode>
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8544;15;8545;15;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9823;15;9824;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="browser;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14163;15;14173;15;;;;vpos;;v;;a;;r;;d14171,15;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9435;15;9436;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="constructor;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7434;15;7445;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9437;15;9796;15;;;;vposArray;;v;;a;;r;;d9794,15;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6835;15;6836;15;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6846;15;6847;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="guid;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13177;15;13181;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6852;15;6853;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6854;15;9585;15;;;;vposArray;;v;;a;;r;;d9583,15;;b0,0;;m0;;e">
+</treenode>
+<treenode node="isReady;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9935;15;9942;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="j;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6898;15;6899;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="jquery;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8419;15;8425;15;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="k;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6905;15;6906;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="l;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6914;15;6915;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="length;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8434;15;8440;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,2;;m0;;e">
+</treenode>
+<treenode node="m;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6923;15;6924;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="n;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6930;15;6931;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="o;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6961;15;6962;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="p;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6979;15;6980;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="push;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9334;15;9338;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="q;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7019;15;7020;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="r;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7088;15;7089;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="readyWait;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9946;15;9955;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="s;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7113;15;7114;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="selector;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8407;15;8415;15;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="sort;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9341;15;9345;15;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="splice;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9354;15;9360;15;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="t;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7139;15;7140;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="trim;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12232;15;12236;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9492;15;9498;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="u;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7178;15;7179;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="v;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7198;15;7199;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="w;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7232;15;7233;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="x;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7246;15;7247;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="y;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f7248;15;7249;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="getRand;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\script.js;f0;53;1;55;;;;vpos;;v;;a;;r;;d23,53;;b0,0;;m0;;ex;;py;;p;;x;;x">
+<treenode node="Math;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f8;65;12;65;;C:\Users\progr\Documents\HTML-game\js\script.js;f11;54;15;54;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="x;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f17;64;18;64;;C:\Users\progr\Documents\HTML-game\js\script.js;f17;53;18;53;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="y;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\index.html;f20;64;21;64;;C:\Users\progr\Documents\HTML-game\js\script.js;f20;53;21;53;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="k;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6338;15;21839;16;;;;vpos;;v;;a;;r;;d21028,16;;b0,0;;m0;;ea;;pc;;pd;;pb;;pe;;pf;;pg;;p;;x;;x;;x;;x;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6349;15;6350;15;;;;vposj.;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="nodeType;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6368;15;6376;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6363;15;6364;15;;;;vposc.createElement;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6351;15;6352;15;;;;vposd.nextSibling;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="currentTarget;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f867;16;880;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6353;15;6354;15;;;;vposd.nextSibling;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6386;15;6387;15;;;;vpose.parentNode;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="nodeType;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f21116;16;21124;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6525;15;6526;15;;;;vposa.length;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="finally;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f21784;16;21791;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6583;15;6584;15;;;;vposb.;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f21060;16;21061;16;;;;vposa.parentNode;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6536;15;6537;15;;;;vpose.getElementById;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="id;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f21428;16;21430;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="j;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6406;15;6407;15;;;;vposj.parentNode;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="k;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f21044;16;21045;16;;;;vposj.;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="l;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f21202;16;21203;16;;;;vposk.selectors;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="m;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f21568;16;21569;16;;;;vposc.createElement;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="n;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f21572;16;21573;16;;;;vpose.getAttribute;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="o;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f21595;16;21596;16;;;;vposo.replace;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="q;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f21602;16;21603;16;;;;vpose.parentNode;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="r;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f21617;16;21618;16;;;;vposf.;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="result;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f1057;16;1063;16;;;;vposj.handler.apply;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="s;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f21780;16;21781;16;;;;vposq.expr;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6454;15;6460;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="l;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6275;15;6338;15;;;;vpos;;v;;a;;r;;d6288,15;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6286;15;6287;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6297;15;6298;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="selectors;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12023;16;18250;16;;;;vpos;;v;;a;;r;;d12033,16;;b0,0;;m0;;e">
+<treenode node="attrHandle;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12681;16;12789;16;;;;vpos;;v;;a;;r;;d12692,16;;b0,0;;m0;;e">
+<treenode node="href;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12693;16;12740;16;;;;vpos;;v;;a;;r;;d12709,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12707;16;12708;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="type;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12741;16;12788;16;;;;vpos;;v;;a;;r;;d12757,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12755;16;12756;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="attrMap;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12635;16;12680;16;;;;vpos;;v;;a;;r;;d12643,16;;b0,0;;m0;;e">
+</treenode>
+<treenode node="filter;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16819;16;18249;16;;;;vpos;;v;;a;;r;;d16826,16;;b0,0;;m0;;e">
+<treenode node="ATTR;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17809;16;18173;16;;;;vpos;;v;;a;;r;;d17827,16;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17823;16;17824;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17825;16;17826;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17832;16;17833;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17839;16;17840;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17910;16;17911;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17917;16;17918;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17924;16;17925;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="l;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17857;16;17858;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="CHILD;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17089;16;17572;16;;;;vpos;;v;;a;;r;;d17108,16;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17104;16;17105;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17106;16;17107;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17113;16;17114;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17120;16;17121;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="nodeIndex;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17488;16;17497;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="nodeType;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17188;16;17196;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17321;16;17322;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17328;16;17329;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17364;16;17365;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17371;16;17372;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="sizcache;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17505;16;17513;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17428;16;17429;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="j;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17520;16;17521;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ID;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17573;16;17638;16;;;;vpos;;v;;a;;r;;d17589,16;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17585;16;17586;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="nodeType;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17599;16;17607;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17587;16;17588;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="POS;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18174;16;18248;16;;;;vpos;;v;;a;;r;;d18195,16;;b0,0;;m0;;ea;;pb;;pc;;pd;;p;;x;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18187;16;18188;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18189;16;18190;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18191;16;18192;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18193;16;18194;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18200;16;18201;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18207;16;18208;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="PSEUDO;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16827;16;17088;16;;;;vpos;;v;;a;;r;;d16851,16;;b0,0;;m0;;ea;;pb;;pc;;pd;;p;;x;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16843;16;16844;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16845;16;16846;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16847;16;16848;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16849;16;16850;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16856;16;16857;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16863;16;16864;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17009;16;17010;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17024;16;17025;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17028;16;17029;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="k;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16954;16;16955;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="TAG;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17639;16;17718;16;;;;vpos;;v;;a;;r;;d17656,16;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17652;16;17653;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="nodeType;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17675;16;17683;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17654;16;17655;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17751;16;17752;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f17736;16;17737;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="filters;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15108;16;16507;16;;;;vpos;;v;;a;;r;;d15116,16;;b0,0;;m0;;e">
+<treenode node="button;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16270;16;16372;16;;;;vpos;;v;;a;;r;;d16288,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16286;16;16287;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16293;16;16294;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="checkbox;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15738;16;15822;16;;;;vpos;;v;;a;;r;;d15758,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15756;16;15757;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="checked;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15225;16;15267;16;;;;vpos;;v;;a;;r;;d15244,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15242;16;15243;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="checked;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15254;16;15261;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="disabled;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15180;16;15224;16;;;;vpos;;v;;a;;r;;d15200,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15198;16;15199;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="disabled;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15210;16;15218;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="empty;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15395;16;15433;16;;;;vpos;;v;;a;;r;;d15412,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15410;16;15411;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="enabled;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15117;16;15179;16;;;;vpos;;v;;a;;r;;d15136,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15134;16;15135;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="disabled;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15146;16;15154;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="file;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15823;16;15899;16;;;;vpos;;v;;a;;r;;d15839,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15837;16;15838;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="focus;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16447;16;16506;16;;;;vpos;;v;;a;;r;;d16464,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16462;16;16463;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="has;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15434;16;15479;16;;;;vpos;;v;;a;;r;;d15453,16;;b0,0;;m0;;ea;;pb;;pc;;p;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15447;16;15448;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15449;16;15450;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15451;16;15452;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="header;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15480;16;15529;16;;;;vpos;;v;;a;;r;;d15498,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15496;16;15497;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15508;16;15509;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15506;16;15507;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15510;16;15511;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="image;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16089;16;16167;16;;;;vpos;;v;;a;;r;;d16106,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16104;16;16105;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="parent;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15354;16;15394;16;;;;vpos;;v;;a;;r;;d15372,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15370;16;15371;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="password;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15900;16;15984;16;;;;vpos;;v;;a;;r;;d15920,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15918;16;15919;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="radio;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15659;16;15737;16;;;;vpos;;v;;a;;r;;d15676,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15674;16;15675;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="reset;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16168;16;16269;16;;;;vpos;;v;;a;;r;;d16185,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16183;16;16184;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16190;16;16191;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="selected;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15268;16;15353;16;;;;vpos;;v;;a;;r;;d15288,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15286;16;15287;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="selected;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15339;16;15347;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="submit;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15985;16;16088;16;;;;vpos;;v;;a;;r;;d16003,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16001;16;16002;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16008;16;16009;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="text;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15530;16;15658;16;;;;vpos;;v;;a;;r;;d15546,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15544;16;15545;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15551;16;15552;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15576;16;15577;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16434;16;16435;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16427;16;16428;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="select;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16404;16;16410;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="textarea;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16411;16;16419;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="find;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13575;16;14014;16;;;;vpos;;v;;a;;r;;d13580,16;;b0,0;;m0;;e">
+<treenode node="ID;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13581;16;13705;16;;;;vpos;;v;;a;;r;;d13599,16;;b0,0;;m0;;ea;;pb;;pc;;p;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13593;16;13594;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13595;16;13596;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13597;16;13598;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13649;16;13650;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13603;16;13609;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="NAME;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13706;16;13912;16;;;;vpos;;v;;a;;r;;d13724,16;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13720;16;13721;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13722;16;13723;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13773;16;13774;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="length;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13893;16;13899;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13778;16;13779;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13814;16;13815;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13818;16;13819;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13728;16;13734;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="TAG;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13913;16;14013;16;;;;vpos;;v;;a;;r;;d13930,16;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13926;16;13927;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13928;16;13929;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13934;16;13940;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="leftMatch;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12622;16;12634;16;;;;vpos;;v;;a;;r;;d12632,16;;b0,0;;m0;;e">
+</treenode>
+<treenode node="match;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12060;16;12621;16;;;;vpos;;v;;a;;r;;d12066,16;;b0,0;;m0;;e">
+<treenode node="ATTR;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12202;16;12206;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="CHILD;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12358;16;12363;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="ID;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12067;16;12069;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="NAME;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12145;16;12149;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="POS;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12469;16;12472;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="PSEUDO;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12536;16;12542;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="TAG;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12318;16;12321;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="order;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12034;16;12039;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="preFilter;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14015;16;15107;16;;;;vpos;;v;;a;;r;;d14025,16;;b0,0;;m0;;e">
+<treenode node="ATTR;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14635;16;14808;16;;;;vpos;;v;;a;;r;;d14661,16;;b0,0;;m0;;ea;;pb;;pc;;pd;;pe;;pf;;p;;x;;x;;x;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14649;16;14650;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14651;16;14652;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14653;16;14654;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14655;16;14656;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14657;16;14658;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14659;16;14660;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14666;16;14667;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14686;16;14687;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="l;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14696;16;14697;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="CHILD;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14350;16;14634;16;;;;vpos;;v;;a;;r;;d14367,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="D;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14524;16;14525;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14365;16;14366;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14442;16;14443;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14621;16;14622;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="k;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14391;16;14392;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ID;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14249;16;14290;16;;;;vpos;;v;;a;;r;;d14263,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14261;16;14262;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14284;16;14285;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="POS;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15067;16;15106;16;;;;vpos;;v;;a;;r;;d15082,16;;b0,0;;m0;;ea;;p;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f15080;16;15081;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="PSEUDO;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14809;16;15066;16;;;;vpos;;v;;a;;r;;d14835,16;;b0,0;;m0;;eb;;pc;;pd;;pe;;pf;;p;;x;;x;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14856;16;14857;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14825;16;14826;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14827;16;14828;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14829;16;14830;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14831;16;14832;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14833;16;14834;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14935;16;14936;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="l;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14999;16;15000;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="w;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14887;16;14888;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="TAG;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14291;16;14349;16;;;;vpos;;v;;a;;r;;d14308,16;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14304;16;14305;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14306;16;14307;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14329;16;14330;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14054;16;14055;16;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14043;16;14044;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14045;16;14046;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14047;16;14048;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14049;16;14050;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14051;16;14052;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14105;16;14106;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14109;16;14110;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f14073;16;14074;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="relative;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12790;16;13574;16;;;;vpos;;v;;a;;r;;d12799,16;;b0,0;;m0;;e">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12979;16;12980;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12815;16;12816;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12822;16;12823;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="parentNode;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13286;16;13296;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12843;16;12844;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12859;16;12860;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12898;16;12899;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12902;16;12903;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12913;16;12914;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="j;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f12849;16;12850;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="k;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13034;16;13035;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f13359;16;13365;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="setFilters;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16508;16;16818;16;;;;vpos;;v;;a;;r;;d16519,16;;b0,0;;m0;;e">
+<treenode node="eq;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16780;16;16817;16;;;;vpos;;v;;a;;r;;d16798,16;;b0,0;;m0;;ea;;pb;;pc;;p;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16792;16;16793;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16794;16;16795;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16796;16;16797;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="even;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16600;16;16634;16;;;;vpos;;v;;a;;r;;d16618,16;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16614;16;16615;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16616;16;16617;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="first;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16520;16;16553;16;;;;vpos;;v;;a;;r;;d16539,16;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16535;16;16536;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16537;16;16538;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="gt;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16705;16;16740;16;;;;vpos;;v;;a;;r;;d16723,16;;b0,0;;m0;;ea;;pb;;pc;;p;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16717;16;16718;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16719;16;16720;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16721;16;16722;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="last;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16554;16;16599;16;;;;vpos;;v;;a;;r;;d16576,16;;b0,0;;m0;;ea;;pb;;pc;;pd;;p;;x;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16568;16;16569;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16570;16;16571;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16572;16;16573;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16574;16;16575;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="lt;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16669;16;16704;16;;;;vpos;;v;;a;;r;;d16687,16;;b0,0;;m0;;ea;;pb;;pc;;p;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16681;16;16682;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16683;16;16684;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16685;16;16686;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="nth;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16741;16;16779;16;;;;vpos;;v;;a;;r;;d16760,16;;b0,0;;m0;;ea;;pb;;pc;;p;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16754;16;16755;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16756;16;16757;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16758;16;16759;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="odd;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16635;16;16668;16;;;;vpos;;v;;a;;r;;d16652,16;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16648;16;16649;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f16650;16;16651;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+</treenode>
+</treenode>
+</treenode>
+<treenode node="m;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6030;15;6275;15;;;;vpos;;v;;a;;r;;d6047,15;;b0,0;;m0;;ea;;pc;;pd;;p;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6041;15;6042;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6349;15;6350;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="nodeType;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6368;15;6376;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6363;15;6364;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6351;15;6352;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6353;15;6354;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6386;15;6387;15;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6525;15;6526;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6583;15;6584;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6536;15;6537;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="j;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6406;15;6407;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6454;15;6460;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6100;15;6101;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6043;15;6044;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="currentTarget;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f177;16;190;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="result;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f260;16;266;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6045;15;6046;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6052;15;6053;15;;;;vposc;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6124;15;6125;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6064;15;6065;15;;;;vposc;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6076;15;6077;15;;;;vposc;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f6087;15;6088;15;;;;vposf.data;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="n;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f22925;15;18300;16;;;;vposArray;;v;;a;;r;;d18280,16;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18276;16;18277;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18278;16;18279;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="event;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f597;16;602;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="triggered;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f603;16;612;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="event;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f647;16;652;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="triggered;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f653;16;662;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+</treenode>
+</treenode>
+<treenode node="nodeType;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f10514;16;10522;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="p;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f22947;15;18882;16;;;;vpos;;v;;a;;r;;d18686,16;;b0,0;;m0;;ea;;pb;;p;;x;;x">
+<treenode node="Array;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18735;16;18740;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18682;16;18683;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="length;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18784;16;18790;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18684;16;18685;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18691;16;18692;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18695;16;18696;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18706;16;18707;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18809;16;18810;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18775;16;18781;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="r;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f22979;15;19522;16;;;;vposString;;v;;a;;r;;d19129,16;;b0,0;;m0;;ea;;pb;;pa;;pb;;p;;x;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18944;16;18945;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18946;16;18947;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f19225;16;19226;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f19227;16;19228;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f19229;16;19230;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f19234;16;19235;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f18959;16;18960;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f19239;16;19240;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f19254;16;19255;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="j;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f19269;16;19270;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="k;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f19432;16;19433;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="s;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f23026;15;19631;16;;;;vpos;;v;;a;;r;;d19540,16;;b0,0;;m0;;ea;;pb;;pc;;p;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f19534;16;19535;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f19536;16;19537;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f19538;16;19539;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f19563;16;19564;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="t;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9046;16;9288;16;;;;vpos;;v;;a;;r;;d9069,16;;b0,0;;m0;;ea;;pb;;pc;;pd;;pe;;pf;;p;;x;;x;;x;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9057;16;9058;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9059;16;9060;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9061;16;9062;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9063;16;9064;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9065;16;9066;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9067;16;9068;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9078;16;9079;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9082;16;9083;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9106;16;9107;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="nodeType;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9185;16;9193;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="sizcache;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9149;16;9157;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="sizset;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9219;16;9225;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="j;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f9123;16;9124;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="u;JS:Function Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8755;16;9046;16;;;;vpos;;v;;a;;r;;d8778,16;;b0,0;;m0;;ea;;pb;;pc;;pd;;pe;;pf;;p;;x;;x;;x;;x;;x;;x">
+<treenode node="a;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8766;16;8767;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="b;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8768;16;8769;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="c;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8770;16;8771;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="d;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8772;16;8773;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="e;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8774;16;8775;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="f;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8776;16;8777;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="g;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8787;16;8788;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="h;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8791;16;8792;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="i;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8815;16;8816;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+<treenode node="nodeType;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8897;16;8905;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="sizcache;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8858;16;8866;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="sizset;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8930;16;8936;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="j;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8832;16;8833;16;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="k;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8993;16;8994;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="typeof;JS:JS Var Name;C:\Users\progr\Documents\HTML-game\js\jquery.js;f8943;16;8949;16;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+</jstree>
+</codestructure>
