@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\Users\progr\Documents\html\html-game\html-game.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/html-game]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/html-game]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\Users\progr\Documents\html\html-game\index.html"/>
+  <file name="C:\Users\progr\Documents\html\html-game\css\app.css"/>
+  <file name="C:\Users\progr\Documents\html\html-game\js\app.js"/>
+  <file name="C:\Users\progr\Documents\html\html-game\js\resources.js"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file crc="1601451529646" name="C:\Users\progr\Documents\html\html-game\js\resources.js"/>
+  <file crc="1601401417934" name="C:\Users\progr\Documents\html\html-game\js\app.js"/>
+  <file crc="1601391616289" name="C:\Users\progr\Documents\html\html-game\css\app.css"/>
+  <file crc="1601401416757" name="C:\Users\progr\Documents\html\html-game\index.html"/>
+ </filescache>
+</project>

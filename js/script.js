@@ -1,285 +1,184 @@
+
+var bkgImg;
+var hand;
+var stick;
+var bandage;
 var canvas, ctx;
-var backgroundImage;
-var iBgShiftX = 100;
+var divStart;
+var divAlert;
+var divFinish;
+var stickX, stickY, bondageX, bondageY;
+var crunch, bondageS, error, victory;
+stickX = 500;
+stickY=1060;
+bondageX = 770;
+bondageY = 1020;
+var handX= -899;
+var handsS = 0;
+var handsSW = 785;
+var stateHand = false;
 
-var dragon, enemy = null;
-var balls = [];
-var enemies = [];
-
-var dragonW = 75;
-var dragonH = 70;
-var iSprPos = 0; 
-var iSprDir = 0; 
-var iEnemyW = 128; 
-var iEnemyH = 128; 
-var iBallSpeed = 10;
-var iEnemySpeed = 2; 
-
-var dragonSound;
-var wingsSound;
-var explodeSound, explodeSound2;
-var laughtSound; 
-
-var bMouseDown = false;
+var mouseDown = false;
+var stickDrag = false;
+var bondageDrag = false;
 var iLastMouseX = 0;
 var iLastMouseY = 0;
-var iScore = 0;
-// -------------------------------------------------------------
+var imgHand = "img/hands.png";
+var t =0;
+//object :
 
-function Dragon(x, y, w, h, image) {
-    this.x = x;
-    this.y = y;
-    this.w = w;
-    this.h = h;
-    this.image = image;
-    this.bDrag = false;
-}
-function Ball(x, y, w, h, speed, image) {
-    this.x = x;
-    this.y = y;
-    this.w = w;
-    this.h = h;
-    this.speed = speed;
-    this.image = image;
-}
-function Enemy(x, y, w, h, speed, image) {
-    this.x = x;
-    this.y = y;
-    this.w = w;
-    this.h = h;
-    this.speed = speed;
-    this.image = image;
-}
-// -------------------------------------------------------------
-function getRand(x, y) {
-    return Math.floor(Math.random()*y)+x;
-}
-
-function drawScene() {
+function drawScene(){
     ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
 
-    iBgShiftX += 4;
-    if (iBgShiftX >= 1045) {
-        iBgShiftX = 0;
-    }
-    ctx.drawImage(backgroundImage, 0 + iBgShiftX, 0, 1000, 940, 0, 0, 1000, 600);
-
-    iSprPos++;
-    if (iSprPos >= 9) {
-        iSprPos = 0;
-    }
-
-    if (bMouseDown) {
-        if (iLastMouseX > dragon.x) {
-            dragon.x += 5;
-        }
-        if (iLastMouseY > dragon.y) {
-            dragon.y += 5;
-        }
-        if (iLastMouseX < dragon.x) {
-            dragon.x -= 5;
-        }
-        if (iLastMouseY < dragon.y) {
-            dragon.y -= 5;
-        }
-    }
-
-    ctx.drawImage(dragon.image, iSprPos*dragon.w, iSprDir*dragon.h, dragon.w, dragon.h, dragon.x - dragon.w/2, dragon.y - dragon.h/2, dragon.w, dragon.h);
-
-    if (balls.length > 0) {
-        for (var key in balls) {
-            if (balls[key] != undefined) {
-                ctx.drawImage(balls[key].image, balls[key].x, balls[key].y);
-                balls[key].x += balls[key].speed;
-
-                if (balls[key].x > canvas.width) {
-                    delete balls[key];
-                }
-            }
-        }
-    }
-
-    if (enemies.length > 0) {
-        for (var ekey in enemies) {
-            if (enemies[ekey] != undefined) {
-                ctx.drawImage(enemies[ekey].image, enemies[ekey].x, enemies[ekey].y);
-                enemies[ekey].x += enemies[ekey].speed;
-
-                if (enemies[ekey].x < - iEnemyW) {
-                    delete enemies[ekey];
-
-                    laughtSound.currentTime = 0;
-                    laughtSound.play();
-                }
-            }
-        }
-    }
-
-    if (balls.length > 0) {
-        for (var key in balls) {
-            if (balls[key] != undefined) {
-
-                if (enemies.length > 0) {
-                    for (var ekey in enemies) {
-                        if (enemies[ekey] != undefined && balls[key] != undefined) {
-                            if (balls[key].x + balls[key].w > enemies[ekey].x && balls[key].y + balls[key].h > enemies[ekey].y && balls[key].y < enemies[ekey].y + enemies[ekey].h) {
-                                delete enemies[ekey];
-                                delete balls[key];
-                                iScore++;
-
-                                explodeSound2.currentTime = 0;
-                                explodeSound2.play();
-                            }
-                        }
-                    }
-                }
-            }
-        }
-    }
-
-    ctx.font = '16px Verdana';
-    ctx.fillStyle = '#fff';
-    ctx.fillText('Score: ' + iScore * 10, 900, 580);
-    ctx.fillText('Press "1" to shoot', 100, 580);
+    ctx.drawImage(bkgImg, 0, 0);
+    startGame();
 
 }
-
-// -------------------------------------------------------------
+function startGame(){
+    divStart.style = "display:none";
+    ctx.drawImage(hand, handsS, 0, handsSW, 668, handX, 0, 899, 668);
+    ctx.drawImage(stick, stickX,stickY);
+    ctx.drawImage(bandage, bondageX, bondageY);
+}
+function move(){
+    if(stickY>760)stickY--;
+    if(bondageY>720) bondageY--;
+}
+function move1(){
+    if(handX<0)handX++;
+}
 
 // initialization
 $(function(){
+
     canvas = document.getElementById('scene');
     ctx = canvas.getContext('2d');
 
     var width = canvas.width;
     var height = canvas.height;
 
-    backgroundImage = new Image();
-    backgroundImage.src = 'images/hell.jpg';
-    backgroundImage.onload = function() {
-    }
-    backgroundImage.onerror = function() {
-        console.log('Error loading the background image.');
-    }
+    bkgImg = new Image();
+    hand = new Image();
+    stick = new Image();
+    bandage = new Image();
+    bkgImg.src="img/terrain.png";
+    hand.src = imgHand;
+    stick.src="img/stick.png";
+    bandage.src = "img/bandage.png";
+    ctx.drawImage(bkgImg, 0, 0);
+    crunch = new Audio('audio/crunch.mp3');
+    crunch.volume = 1;
+    bondageS = new Audio('audio/bondage.mp3');
+    bondageS.volume = 1;
+    error = new Audio('audio/error.mp3');
+    error.volume = 1;
+    victory = new Audio('audio/victory.mp3');
+    victory.volume = 1;
 
-    dragonSound = new Audio('media/dragon.wav');
-    dragonSound.volume = 0.9;
-
-    laughtSound = new Audio('media/laught.wav');
-    laughtSound.volume = 0.9;
-
-    explodeSound = new Audio('media/explode1.wav');
-    explodeSound.volume = 0.9;
-    explodeSound2 = new Audio('media/explosion.wav');
-    explodeSound2.volume = 0.9;
-
-    wingsSound = new Audio('media/wings.wav');
-    wingsSound.volume = 0.9;
-    wingsSound.addEventListener('ended', function() { // loop wings sound
-        this.currentTime = 0;
-        this.play();
-    }, false);
-    wingsSound.play();
-
-    var oBallImage = new Image();
-    oBallImage.src = 'images/fireball.png';
-    oBallImage.onload = function() { }
-
-    var oEnemyImage = new Image();
-    oEnemyImage.src = 'images/enemy.png';
-    oEnemyImage.onload = function() { }
-
-    var oDragonImage = new Image();
-    oDragonImage.src = 'images/dragon.gif';
-    oDragonImage.onload = function() {
-        dragon = new Dragon(400, 300, dragonW, dragonH, oDragonImage);
-    }
-
-    $('#scene').mousedown(function(e) { 
+    $('#scene').mousedown(function(e) { // binding mousedown event (for dragging)
         var mouseX = e.layerX || 0;
         var mouseY = e.layerY || 0;
-        if(e.originalEvent.layerX) { 
+        if(e.originalEvent.layerX) { // changes for jquery 1.7
             mouseX = e.originalEvent.layerX;
             mouseY = e.originalEvent.layerY;
         }
 
-        bMouseDown = true;
+        mouseDown = true;
 
-        if (mouseX > dragon.x- dragon.w/2 && mouseX < dragon.x- dragon.w/2 +dragon.w &&
-            mouseY > dragon.y- dragon.h/2 && mouseY < dragon.y-dragon.h/2 +dragon.h) {
-
-            dragon.bDrag = true;
-            dragon.x = mouseX;
-            dragon.y = mouseY;
+        if(mouseX > stickX && mouseX < stickX+200 && mouseY > stickY && mouseY < stickY + 200){
+            stickDrag = true;
+            stickY = mouseY-60;
+            stickX = mouseX-60;
+        }
+        if(mouseX > bondageX && mouseX < bondageX+200 && mouseY > bondageY && mouseY < bondageY + 200){
+            bondageDrag = true;
+            bondageY = mouseY-60;
+            bondageX = mouseX-60;
         }
     });
 
-    $('#scene').mousemove(function(e) {
+    $('#scene').mousemove(function(e) { // binding mousemove event
         var mouseX = e.layerX || 0;
         var mouseY = e.layerY || 0;
         if(e.originalEvent.layerX) {
             mouseX = e.originalEvent.layerX;
             mouseY = e.originalEvent.layerY;
         }
-
-        iLastMouseX = mouseX;
-        iLastMouseY = mouseY;
-
-        if (dragon.bDrag) {
-            dragon.x = mouseX;
-            dragon.y = mouseY;
+        if(stickDrag){
+                stickY = mouseY - 60;
+                stickX = mouseX - 60;
         }
+        if(bondageDrag){
+            bondageY = mouseY-60;
+            bondageX = mouseX-60;
 
-        if (mouseX > dragon.x && Math.abs(mouseY-dragon.y) < dragon.w/2) {
-            iSprDir = 0;
-        } else if (mouseX < dragon.x && Math.abs(mouseY-dragon.y) < dragon.w/2) {
-            iSprDir = 4;
-        } else if (mouseY > dragon.y && Math.abs(mouseX-dragon.x) < dragon.h/2) {
-            iSprDir = 2;
-        } else if (mouseY < dragon.y && Math.abs(mouseX-dragon.x) < dragon.h/2) {
-            iSprDir = 6;
-        } else if (mouseY < dragon.y && mouseX < dragon.x) {
-            iSprDir = 5;
-        } else if (mouseY < dragon.y && mouseX > dragon.x) {
-            iSprDir = 7;
-        } else if (mouseY > dragon.y && mouseX < dragon.x) {
-            iSprDir = 3;
-        } else if (mouseY > dragon.y && mouseX > dragon.x) {
-            iSprDir = 1;
         }
     });
 
-    $('#scene').mouseup(function(e) {
-        dragon.bDrag = false;
-        bMouseDown = false;
-
-        dragonSound.currentTime = 0;
-        dragonSound.play();
-    });
-
-    $(window).keydown(function(event){ 
-        switch (event.keyCode) {
-            case 49: 
-                balls.push(new Ball(dragon.x, dragon.y, 32, 32, iBallSpeed, oBallImage));
-
-                explodeSound.currentTime = 0;
-                explodeSound.play();
-                break;
+    $('#scene').mouseup(function(e) { // binding mouseup event
+        mouseDown = false;
+        bondageDrag = false;
+        stickDrag = false;
+        if(stickX <534 && stickX> 150 && stickY < 588 && stickY > 400){
+            stickX = -300;
+            stickY=-470;
+            handsS = 893;
+            stateHand = true;
+            crunch.currentTime = 0;
+            crunch.play();
+        }else if (stickX == -300 && stickY== -470){
+            stickX = -300;
+            stickY=-470;
+        }else
+            {
+            stickX = 500;
+            stickY=760;
         }
+
+        if(bondageX <534 && bondageX> 150 && bondageY < 588 && bondageY > 300){
+            if(stateHand){
+                bondageX = -300;
+                bondageY=-470;
+                handsS = 1786;
+                handsSW =795;
+                divFinish.style = "display:block";
+                victory.currentTime = 0;
+                victory.play();
+            } else {
+                bondageX = 770;
+                bondageY = 720;
+                divAlert.style = "display:block";
+                error.currentTime = 0;
+                error.play();
+            }
+        }else if (bondageX == -300 && bondageY== -470){
+            bondageX = -300;
+            bondageY=-470;
+        }else
+        {
+            bondageX = 770;
+            bondageY = 720;
+        }
+
+    });
+    divStart = document.getElementById("gameStart");
+
+    divStart.addEventListener("click", function(){
+        setInterval(drawScene, 30);
+    });
+    divAlert = document.getElementById("alert");
+
+    divAlert.addEventListener("click", function(){
+        divAlert.style = "display:none";
+    });
+    divFinish = document.getElementById("finish");
+
+    divFinish.addEventListener("click", function(){
+        divFinish.style = "display:none";
     });
 
-    setInterval(drawScene, 30);
-
-
-    var enTimer = null;
-    function addEnemy() {
-        clearInterval(enTimer);
-
-        var randY = getRand(0, canvas.height - iEnemyH);
-        enemies.push(new Enemy(canvas.width, randY, iEnemyW, iEnemyH, - iEnemySpeed, oEnemyImage));
-
-        var interval = getRand(5000, 10000);
-        enTimer = setInterval(addEnemy, interval);
+    stick.onload = function(){
+        setInterval(move, 7);
+        setInterval(move1, 0.00001);
     }
-    addEnemy();
 });

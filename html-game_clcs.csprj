@@ -1,0 +1,31 @@
+
+<codestructure version="1.7.1">
+<phptree>
+</phptree>
+<jstree>
+<treenode node="init;JS:Function Name;C:\Users\progr\Documents\html\html-game\js\app.js;f0;31;14;34;;;;vpos;;v;;a;;r;;d15,31;;b0,0;;m0;;e">
+<treenode node="resources;JS:JS Var Name;C:\Users\progr\Documents\html\html-game\js\app.js;f36;32;45;32;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="terrainPattern;JS:JS Var Name;C:\Users\progr\Documents\html\html-game\js\app.js;f1;32;15;32;;;;vposctx.createPattern;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="load;JS:Function Name;C:\Users\progr\Documents\html\html-game\js\resources.js;f0;5;2;12;;;;vpos;;v;;a;;r;;d24,5;;b0,0;;m0;;eurlOrArr;;p;;x">
+<treenode node="Array;JS:JS Var Name;C:\Users\progr\Documents\html\html-game\js\resources.js;f25;6;30;6;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="instanceof;JS:JS Var Name;C:\Users\progr\Documents\html\html-game\js\resources.js;f14;6;24;6;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="urlOrArr;JS:JS Var Name;C:\Users\progr\Documents\html\html-game\js\resources.js;f15;5;23;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="main;JS:Function Name;C:\Users\progr\Documents\html\html-game\js\app.js;f0;20;1;29;;;;vpos;;v;;a;;r;;d16,20;;b0,0;;m0;;e">
+<treenode node="dt;JS:JS Var Name;C:\Users\progr\Documents\html\html-game\js\app.js;f5;22;7;22;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="lastTime;JS:JS Var Name;C:\Users\progr\Documents\html\html-game\js\app.js;f17;22;25;22;;;;vposNumber;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="main;JS:JS Var Name;C:\Users\progr\Documents\html\html-game\js\app.js;f18;28;22;28;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="now;JS:JS Var Name;C:\Users\progr\Documents\html\html-game\js\app.js;f5;21;8;21;;;;vposNumber;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+</jstree>
+</codestructure>
